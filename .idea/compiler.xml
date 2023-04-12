@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Module_Seven_JSON_XML_RightProject (3)" />
+        <module name="Module_Seven_JSON_XML_RightProject (2)" />
+        <module name="Module_Seven_JSON_XML_RightProject" />
+        <module name="Module_Seven_JSON_XML_RightProject (1)" />
+        <module name="1_Java_Basic" />
+        <module name="Module_Five_Exeptions" />
+        <module name="Module_Two_OOP" />
+        <module name="Module_Three_Data_Handing" />
+        <module name="Module_Four_Collections" />
+        <module name="epam" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1_Java_Basic" target="11" />
+      <module name="epam" target="11" />
+      <module name="Module_Five_Exeptions" target="11" />
+      <module name="Module_Four_Collections" target="11" />
+      <module name="Module_One_Java_Basic" target="11" />
+      <module name="Module_Seven_JSON_XML_RightProject" target="11" />
+      <module name="Module_Seven_JSON_XML_RightProject (1)" target="11" />
+      <module name="Module_Seven_JSON_XML_RightProject (2)" target="11" />
+      <module name="Module_Seven_JSON_XML_RightProject (3)" target="11" />
+      <module name="Module_Three_Data_Handing" target="11" />
+      <module name="Module_Two_OOP" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/8_JSON_XML_RightProject/pom.xml" />
+        <option value="$PROJECT_DIR$/7_JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/5_Exeptions/pom.xml" />
+        <option value="$PROJECT_DIR$/4_Collections_StreamAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Data_Handling/pom.xml" />
+        <option value="$PROJECT_DIR$/2_OOP/pom.xml" />
+        <option value="$PROJECT_DIR$/1_Java_Basic/pom.xml" />
+        <option value="$PROJECT_DIR$/8_XML_JSON_BAD/pom.xml" />
+        <option value="$PROJECT_DIR$/MyFirstJavaProject/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(õÕ¸ª8Å’€Àû/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾î…îıÿÿÿÿ8Ê’€Àû/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÛ÷Ÿşÿÿÿÿ8Î’€Àû/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÑ†ã8Ğ’€Àû/
+F
+java:S2140%")Use "java.util.Random.nextInt()" instead.(ÒÉôõ8Ò’€Àû/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ8Ó’€Àû/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(éÄ®º8Ó’€Àû/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(Ü ïÜ8Ù’€Àû/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÕºÙ½ùÿÿÿÿ8Ú’€Àû/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ùë¼§8İ’€Àû/
+C
+java:S1481E"&Remove this unused "i" local variable.(§¶›á8İ’€Àû/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(şõ‘›8Ş’€Àû/
+R
+java:S1751G"5Remove this "break" statement or make it conditional.(›ûä·8à’€Àû/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ç…†Æüÿÿÿÿ8â’€Àû/
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(Äé¤¬8â’€Àû/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¦¥àşÿÿÿÿ8ã’€Àû/
+]
+java:S1126q"AReplace this if-then-else statement by a single return statement.(—êŸ8é’€Àû/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒƒ¹š8ğ’€Àû/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ƒƒ¹š8ô’€Àû/
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¶ôë8ô’€Àû/
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(–ıÓÆ8ø’€Àû/
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(ˆÂ–‡8ù’€Àû/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¤×¤“8ù’€Àû/
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(‹¯“²8ş’€Àû/
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(°Úÿ£8ş’€Àû/
+F
+java:S1604Ÿ"(Make this anonymous inner class a lambda(ÁãÁ‹8„“€Àû/
+<
+java:S1640z"Convert this Map to an EnumMap.(Ú¢8‹“€Àû/

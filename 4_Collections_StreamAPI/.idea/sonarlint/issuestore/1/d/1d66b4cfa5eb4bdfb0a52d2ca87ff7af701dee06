@@ -1,0 +1,33 @@
+
+J
+java:S3740|"/Provide the parametrized type for this generic.(–°üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†öÇãüÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ô½šÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—œß–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö–ËÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…ëÅò
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ö–ËÖ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(úÎÔÕ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ÙóËØ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ßà§í
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(²ú«»ùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(–â³÷
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ÒèÖ’
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ú©úİøÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(Â¹ã¦ıÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(Õ©ò‹ùÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(é‰Šİùÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(“ß´¹
+M	java:S106i"9Replace this use of System.out or System.err by a logger.(’”ìq
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(Üƒ­¥
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(›¤Æ˜
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘Üã«
+O	java:S106"9Replace this use of System.out or System.err by a logger.(à‚ß«
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(êµ˜øÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(à‚ß«
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ª©ÁÙ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(à‚ß«
+e
+java:S3655i"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(’”ìq

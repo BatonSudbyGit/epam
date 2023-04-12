@@ -1,0 +1,51 @@
+
+Q
+java:S3740("/Provide the parametrized type for this generic.(òƒ¡ïùÿÿÿÿ8€Àû/
+R
+java:S2065
+"0Remove the "transient" modifier from this field.(·Œ”ûÿÿÿÿ8¯€Àû/
+M
+java:S2065"0Remove the "transient" modifier from this field.(ßó•º8¯€Àû/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(íº“µıÿÿÿÿ8¿€Àû/
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•¿™şÿÿÿÿ8¿€Àû/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(•¿™şÿÿÿÿ8À€Àû/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(üíñ«şÿÿÿÿ8À€Àû/
+a
+java:S1117"?Rename "elementData" which hides the field declared at line 11.(Äßñ¼şÿÿÿÿ8Æ€Àû/
+]	java:S125"<This block of commented-out lines of code should be removed.(¿ñÚûüÿÿÿÿ8Æ€Àû/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(íº“µıÿÿÿÿ8Æ€Àû/
+R
+java:S2696#"6Make the enclosing method "static" or remove this set.(‘ı°>8Ç€Àû/
+a
+java:S1117D"?Rename "elementData" which hides the field declared at line 11.(Äßñ¼şÿÿÿÿ8í€Àû/
+R
+java:S1172J"0Remove this unused method parameter "someValue".(Ú†³ÿıÿÿÿÿ8ğ€Àû/
+a
+java:S1117O"?Rename "elementData" which hides the field declared at line 11.(Èôœçúÿÿÿÿ8ñ€Àû/
+Y
+java:S1117P"7Rename "size" which hides the field declared at line 9.(°¦¿‹ùÿÿÿÿ8ò€Àû/
+V
+java:S1119R";Refactor the code to remove this label and the need for it.(ˆ F8ò€Àû/
+\
+java:S1117p"?Rename "elementData" which hides the field declared at line 11.(ºø—Ó8ô€Àû/
+X
+java:S2696r"6Make the enclosing method "static" or remove this set.(íº“µıÿÿÿÿ8õ€Àû/
+d
+java:S1126"AReplace this if-then-else statement by a single return statement.(ˆ›¸øıÿÿÿÿ8ö€Àû/
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(¼šÔĞ8‘€Àû/
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(”îÉ‘8‘€Àû/
+U	java:S106§"9Replace this use of System.out or System.err by a logger.(°Àüa8‚‘€Àû/
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(¼ÄßÙüÿÿÿÿ8‚‘€Àû/
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(¼ÄßÙüÿÿÿÿ8ƒ‘€Àû/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(¼ÄßÙüÿÿÿÿ8ƒ‘€Àû/
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(¼ÄßÙüÿÿÿÿ8„‘€Àû/
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(è™Õùÿÿÿÿ8„‘€Àû/
+K
+java:S1121j".Extract the assignment out of this expression.(¬ƒÅÇ8…‘€Àû/
+P
+java:S1121q".Extract the assignment out of this expression.(¸Ÿ¦ôıÿÿÿÿ8…‘€Àû/

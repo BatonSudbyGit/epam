@@ -1,0 +1,15 @@
+{
+  "candy": [
+    {
+      "name": "Lollipop\u0027s candy",
+      "production": "Mars",
+      "typeAndTaste": [
+        "With topping",
+        "Nuts"
+      ],
+      "cost": 45,
+      "energy": 8,
+      "buyTime": "2023-04-12T23:40:49.930539300"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1_Java_Basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1_Java_Basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_OOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_OOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Data_Handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Data_Handling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_Collections_StreamAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_Collections_StreamAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5_Exeptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5_Exeptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8_JSON_XML_RightProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8_JSON_XML_RightProject/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

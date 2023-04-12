@@ -1,0 +1,15 @@
+{
+  "candy": [
+    {
+      "name": "Chocolate\u0027s candy",
+      "production": "Choopa-Choops",
+      "typeAndTaste": [
+        "Chocolate",
+        "Salted Caramel\u0027s topping"
+      ],
+      "cost": 23,
+      "energy": 1,
+      "buyTime": "2022-02-06T22:56:16.909212300"
+    }
+  ]
+}

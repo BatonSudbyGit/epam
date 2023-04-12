@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨º¢ğÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ÛˆÉüÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(§è 
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÿ†ö
+S	java:S106["9Replace this use of System.out or System.err by a logger.( †¾ğüÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(§è 
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Ô°¬¼üÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Ä¾…±
+g	java:S128„"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(§è 
+
+java:S11920"kDefine a constant instead of duplicating this literal "You entered an incorrect number!Try again." 3 times.(§è 

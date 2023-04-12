@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Java_Basic/1_Java_Basic.iml" filepath="$PROJECT_DIR$/1_Java_Basic/1_Java_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Exeptions/Module_Five_Exeptions.iml" filepath="$PROJECT_DIR$/5_Exeptions/Module_Five_Exeptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Collections_StreamAPI/Module_Four_Collections.iml" filepath="$PROJECT_DIR$/4_Collections_StreamAPI/Module_Four_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_JSON_XML_RightProject/Module_Seven_JSON_XML_RightProject.iml" filepath="$PROJECT_DIR$/8_JSON_XML_RightProject/Module_Seven_JSON_XML_RightProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_JDBC/Module_Seven_JSON_XML_RightProject (1).iml" filepath="$PROJECT_DIR$/7_JDBC/Module_Seven_JSON_XML_RightProject (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_XML_JSON_BAD/Module_Seven_JSON_XML_RightProject (2).iml" filepath="$PROJECT_DIR$/8_XML_JSON_BAD/Module_Seven_JSON_XML_RightProject (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstJavaProject/Module_Seven_JSON_XML_RightProject (3).iml" filepath="$PROJECT_DIR$/MyFirstJavaProject/Module_Seven_JSON_XML_RightProject (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Data_Handling/Module_Three_Data_Handing.iml" filepath="$PROJECT_DIR$/3_Data_Handling/Module_Three_Data_Handing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_OOP/Module_Two_OOP.iml" filepath="$PROJECT_DIR$/2_OOP/Module_Two_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/epam.iml" filepath="$PROJECT_DIR$/.idea/epam.iml" />
+    </modules>
+  </component>
+</project>
